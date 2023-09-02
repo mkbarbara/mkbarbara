@@ -5,7 +5,7 @@ _I am a frontend developer from Moscow, Russia_
 
 - 🔭 I’m currently working on my React projects and searching 🕵️‍♀️ for new job.
 - 🌱 I’m currently learning React frameworks and 3d animations.
-- 📫 An open-minded and community person, so I will be happy to take part in any interesting projects
+- 📫 An open-minded and communicative person, so I will be happy to take part in any interesting projects
 - ⚡ Fun facts:
   1) Studying at MSU state University, Chemistry Department
   2) Creating games for dekstop with pygame as hobby
